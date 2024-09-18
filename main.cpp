@@ -1,5 +1,3 @@
-#include <iostream>
-#include <string>
 #include "include/get_digit.h"
 
 int main() {
